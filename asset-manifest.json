@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robots-rolodex/static/css/main.d101c745.chunk.css",
+    "main.js": "/robots-rolodex/static/js/main.ec2bb882.chunk.js",
+    "main.js.map": "/robots-rolodex/static/js/main.ec2bb882.chunk.js.map",
+    "runtime-main.js": "/robots-rolodex/static/js/runtime-main.c416b7b9.js",
+    "runtime-main.js.map": "/robots-rolodex/static/js/runtime-main.c416b7b9.js.map",
+    "static/js/2.2b5aaf86.chunk.js": "/robots-rolodex/static/js/2.2b5aaf86.chunk.js",
+    "static/js/2.2b5aaf86.chunk.js.map": "/robots-rolodex/static/js/2.2b5aaf86.chunk.js.map",
+    "index.html": "/robots-rolodex/index.html",
+    "precache-manifest.30c3a1d1a924c90c785baf20d565e38e.js": "/robots-rolodex/precache-manifest.30c3a1d1a924c90c785baf20d565e38e.js",
+    "service-worker.js": "/robots-rolodex/service-worker.js",
+    "static/css/main.d101c745.chunk.css.map": "/robots-rolodex/static/css/main.d101c745.chunk.css.map"
+  }
+}
